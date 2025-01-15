@@ -1,5 +1,5 @@
 # 42-Inception
-multi container application
+multi container application with Docker
 
 ## Connecting 3 self-written contianers incl network and volume:
 - Mariadb
